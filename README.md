@@ -1,2 +1,2 @@
-# guia-recomendacoes-html-css
-Guia da Karla
+Guia de recomendações da Karla
+
