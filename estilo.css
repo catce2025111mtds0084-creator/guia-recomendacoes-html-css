@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+    max-width: 100%;
+    height: auto;
+}
+body {
+    font-style: arial;
+    background-color: rgba(197, 194, 194, 0.692);
+    max-width:max-content;
+}
+p {
+    font-size: large;
+    font-style: italic;
+}
+h3 {
+    font-size: 30px
+}
+a:hover {
+    color: rgb(175, 32, 32);
+}
+ul {
+    list-style-type: circle ;
+}
+ol {
+    list-style-type:symbols();
+}
